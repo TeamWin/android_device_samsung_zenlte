@@ -1,0 +1,2 @@
+add_lunch_combo omni_zenlte-eng
+add_lunch_combo omni_zenlte-userdebug
