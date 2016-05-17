@@ -10,5 +10,4 @@ $(call inherit-product, vendor/omni/config/common.mk)
 PRODUCT_DEVICE := zenlte
 PRODUCT_NAME := omni_zenlte
 PRODUCT_BRAND := samsung
-PRODUCT_MODEL := SM-G928F
 PRODUCT_MANUFACTURER := samsung
